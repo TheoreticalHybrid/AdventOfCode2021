@@ -1,11 +1,6 @@
 import time
 import os
 
-class Position:    
-    def __init__(self, horizontal, depth):
-        self.HorizontalPosition = horizontal
-        self.Depth = depth
-
 def getMainInput(useDemoSource = False, useLogging = False):
     file = open('DemoSource.txt', 'r') if useDemoSource else open('Source.txt', 'r')
     input = [x.strip() for x in file.readlines()]
