@@ -85,7 +85,7 @@ def buildMap(input: List[VentLine], map, basicMode = True):
     return count
 
 
-os.chdir('Day 5')
+os.chdir('Day 05')
 
 startTime = time.time()
 

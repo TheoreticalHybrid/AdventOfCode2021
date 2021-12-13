@@ -72,7 +72,7 @@ def getLifeSupportRating(input):
 
     return convertBinaryStringToDecimal(o2Rating) * convertBinaryStringToDecimal(co2Rating)
 
-os.chdir('Day 3')
+os.chdir('Day 03')
 
 useDemo = False
 useLogging = False

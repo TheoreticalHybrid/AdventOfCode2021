@@ -27,7 +27,7 @@ def getNumberOfDepthWindowIncreases(input):
 
     return count
 
-os.chdir('Day 1')
+os.chdir('Day 01')
 
 useDemo = False
 useLogging = False

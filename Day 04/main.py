@@ -94,7 +94,7 @@ def playBingo(bingoNight, findLosingCard = False):
 
     return lastWinningValue
 
-os.chdir('Day 4')
+os.chdir('Day 04')
 
 startTime = time.time()
 

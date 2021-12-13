@@ -42,7 +42,7 @@ def getMinAdjustmentCost(inputList, maxValue, constantBurnRate = True):
 
     return min(costList)
 
-os.chdir('Day 7')
+os.chdir('Day 07')
 
 startTime = time.time()
 

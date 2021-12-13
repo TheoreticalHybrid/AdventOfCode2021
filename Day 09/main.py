@@ -114,7 +114,7 @@ def getBasinScore(heightmap):
 
     return product
 
-os.chdir('Day 9')
+os.chdir('Day 09')
 
 startTime = time.time()
 

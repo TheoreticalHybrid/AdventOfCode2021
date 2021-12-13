@@ -208,7 +208,7 @@ def getDisplaySum(panelList: List[Panel]):
 
     return sum
 
-os.chdir('Day 8')
+os.chdir('Day 08')
 
 startTime = time.time()
 

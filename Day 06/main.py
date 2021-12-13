@@ -49,7 +49,7 @@ def calculateSchoolSize(startingSchool, waitTime):
         
     return schoolSize
 
-os.chdir('Day 6')
+os.chdir('Day 06')
 
 startTime = time.time()
 

@@ -40,7 +40,7 @@ def getAdvancedPosition(input):
 
     return Position(horizontal, depth)
 
-os.chdir('Day 2')
+os.chdir('Day 02')
 
 useDemo = False
 useLogging = False
